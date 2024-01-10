@@ -41,7 +41,10 @@ The UPDATE messages are in charge of **advertising feasible routes, withdrawn ro
 
 Type 4: NOTIFICATION
 
+The NOTIFICATION message i**s sent whenever an error is detected on the network** and **always causes the connection to close**. The Notification message is composed of the **Error code (8 Bits)**, **Error subcode (8 Bits)** and a **Data Field(variable length)**.
+
 ---
+#### **BGP Attributes**
 
 
 

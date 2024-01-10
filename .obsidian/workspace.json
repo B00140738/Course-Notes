@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "038e27210d0b6ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea0ef29c18e4aeb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BGP & eBGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BGP & eBGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BGP & eBGP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0a5a2ed12c0b3ed",
+  "active": "6ea0ef29c18e4aeb",
   "lastOpenFiles": [
+    "BGP & eBGP.md",
     "Untitled.canvas"
   ]
 }
