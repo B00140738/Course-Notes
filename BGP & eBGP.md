@@ -45,6 +45,16 @@ The NOTIFICATION message i**s sent whenever an error is detected on the network*
 
 ---
 #### **BGP Attributes**
+Lets describe how the three most common BGP mandatory attributes:
+
+##### NEXT_HOP:
+
+
+
+##### ORIGIN:
+
+##### AS_PATH:
+
 
 
 
