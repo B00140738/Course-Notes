@@ -11,8 +11,12 @@
             "id": "c0a5a2ed12c0b3ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BGP & eBGP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BGP & eBGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BGP & eBGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BGP & eBGP.md"
+              }
             }
           }
         ]
@@ -139,5 +147,7 @@
     }
   },
   "active": "c0a5a2ed12c0b3ed",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.canvas"
+  ]
 }

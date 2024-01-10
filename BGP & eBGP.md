@@ -37,7 +37,7 @@ Type 2: KEEPALIVE
 
 Type 3: UPDATE
 
-The UPDATE messages 
+The UPDATE messages are in charge of **advertising feasible routes, withdrawn routes, or both**. These message **contain all the required information for BGP to construct a loop-free path through the network**.
 
 Type 4: NOTIFICATION
 
