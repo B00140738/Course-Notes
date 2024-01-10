@@ -1,0 +1,1 @@
+The term Autonomous System, or AS, refers to a group of routers, switches or any other Cisco devices used in Networks. Each AS has its own identifying number that is assigned by an Internet registry or service provider.
