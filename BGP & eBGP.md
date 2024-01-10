@@ -45,7 +45,7 @@ The NOTIFICATION message i**s sent whenever an error is detected on the network*
 
 ---
 #### **BGP Attributes**
-Lets describe how the three most common BGP mandatory attributes:
+Lets describe how the three most common BGP mandatory attributes work:
 
 ##### NEXT_HOP:
 
@@ -54,6 +54,8 @@ Lets describe how the three most common BGP mandatory attributes:
 ##### ORIGIN:
 
 ##### AS_PATH:
+
+The AS_PATH attribute contains a list of AS numbers to reach a route. Whenever a 
 
 
 

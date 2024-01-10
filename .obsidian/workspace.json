@@ -160,9 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ea0ef29c18e4aeb",
+  "active": "c0a5a2ed12c0b3ed",
   "lastOpenFiles": [
+    "Autonomous Systems.md",
     "BGP & eBGP.md",
+    "DHCP.md",
+    "EIGRP.md",
+    "Extended ACL's.md",
+    "Metrics.md",
+    "Exterior Gateway Protocol (EGP).md",
+    "NAT.md",
+    "OSPF.md",
+    "Routing Configuration.md",
+    "Switches.md",
+    "Basic Router & Switch Configuration.md",
+    "Advanced Switching & Routing.md",
+    "ACL.md",
     "Untitled.canvas"
   ]
 }
